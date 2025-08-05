@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+}
+ nav{
+    padding: 0 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+ }
+
+.logo{
+    width: 200px;
+}
+.contactbutton{
+    display: inline-block;
+    padding: 10px 10px;
+    background-color: #85d2ff;
+    border: none;
+    color:black;
+    border-radius: 15%;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 30px;
+}
+.banner{
+    background-color: #85d2ff;
+    color: black;
+    width: 100%;
+    height: 300px;
+    font-size: 70px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 300px;
+}
+body p{
+    padding: 20px 150px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, serif;
+}
+div.container {
+  text-align: center;
+}
+
+ul.myUL {
+  display: inline-block;
+  text-align: left;
+  font-size: 30px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
