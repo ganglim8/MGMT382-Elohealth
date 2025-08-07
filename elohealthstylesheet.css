@@ -77,3 +77,30 @@ ol.myOL {
     text-align: center;
     font-size: 20px;
 }
+ol.OL2{
+    display: inline-block;
+    font-size: 25px;
+    text-align: left;
+    
+}
+ul.UL2{
+    display: inline-block;
+    font-size: 20px;
+    text-align: left;
+}
+.teamheading{
+    margin: auto;
+    width: 80%;
+    height: 80px;
+    padding: 0px 10px;
+    background-color: #1c1f6d;
+    border: none;
+    color: white;
+    border-radius: 2%;
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 80px;
+    font-size: 40px;
+}
